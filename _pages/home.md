@@ -6,11 +6,10 @@ header:
   overlay_color: "#c90600"
   overlay_image: /assets/images/home-page.jpg
   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+    - label: "Дознајте повеќе"
+      url: "/about/"
 excerpt: >
   Здружение на учениците во средните училишта во Македонија<br />
-  <small><a href="">Дознајте повеќе</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
     alt: "customizable"

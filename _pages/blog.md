@@ -1,6 +1,6 @@
 ---
 permalink: /blog/
 title: "Блог"
-layout: home
+layout: blog
 author_profile: false
 ---

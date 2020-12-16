@@ -9,7 +9,7 @@ header:
     - label: "Дознајте повеќе"
       url: "/about/"
 excerpt: >
-  Здружение учениците во средите училишта во Македонија<br />
+  Здружение на учениците во средите училишта во Македонија<br />
 ---
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>

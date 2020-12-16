@@ -1,5 +1,5 @@
 ---
-layout: home-splash
+layout: splash
 permalink: /
 hidden: true
 header:
@@ -11,3 +11,5 @@ header:
 excerpt: >
   Здружение на учениците во средните училишта во Македонија<br />
 ---
+
+{% include home.html %}

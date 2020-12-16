@@ -1,6 +1,6 @@
 ---
-title: "Layout: Header Image Overlay with Custom Tagline"
-tagline: "This is a custom tagline content which overrides the *default* page excerpt."
+title: "Ова е наслов"
+tagline: "Ова е поднаслов."
 header:
   overlay_image: https://i.imgur.com/Lt4ZTpF.png
   teaser: https://i.imgur.com/Lt4ZTpF.png

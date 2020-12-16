@@ -4,6 +4,7 @@ tagline: "Ова е поднаслов."
 header:
   overlay_image: https://i.imgur.com/Lt4ZTpF.png
   teaser: https://i.imgur.com/Lt4ZTpF.png
+  og_image: https://i.imgur.com/Lt4ZTpF.png
   caption: "Слика: Протести 2015"
 categories:
   - Layout

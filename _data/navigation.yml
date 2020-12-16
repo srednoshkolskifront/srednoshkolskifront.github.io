@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Дома"
+    url: /
   - title: "За нас"
     url: /about/
   - title: "Блог"

@@ -7,12 +7,9 @@ header:
   og_image: https://i.imgur.com/Lt4ZTpF.png
   caption: "Слика: Протести 2015"
 categories:
-  - Layout
-  - Uncategorized
+  - Објава
 tags:
-  - edge case
-  - image
-  - layout
+  - протест
 last_modified_at: 2020-01-07T13:05:25-05:00
 ---
 

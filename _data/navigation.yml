@@ -2,8 +2,8 @@
 main:
   - title: "За нас"
     url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Архива"
+    url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

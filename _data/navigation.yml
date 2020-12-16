@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "За нас"
-    url: /about/
+  # - title: "За нас"
+  #   url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

@@ -90,7 +90,7 @@ mk: &DEFAULT_MK
   feed_label                 : "RSS"
   powered_by                 : "Создадено со"
   website_label              : "Интернет страница"
-  email_label                : "Email"
+  email_label                : "Следете нè"
   recent_posts               : "Најнови објави"
   undefined_wpm              : "Недефиниран words_per_minute параметар во _config.yml"
   comment_form_info          : "Важата email адреса нема да биде објавена. Задолжителните полиња се обележани"

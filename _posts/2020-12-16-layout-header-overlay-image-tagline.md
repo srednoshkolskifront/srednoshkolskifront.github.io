@@ -6,7 +6,7 @@ header:
   overlay_filter: 0.5
   teaser: https://i.imgur.com/Lt4ZTpF.png
   og_image: https://i.imgur.com/Lt4ZTpF.png
-  caption: "Слика: Протести 2015"
+  caption: ""
 categories:
   - Објава
 tags:

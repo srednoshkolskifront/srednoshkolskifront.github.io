@@ -21,7 +21,7 @@ This post should display a **header with an overlay image** and **custom tagline
 
 <figure>
   {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption></figcaption>
+  <figcaption>НАПРЕД!</figcaption>
 </figure>
 
 Non-square images can provide some unique styling issues.

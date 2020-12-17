@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#c90600"
+  overlay_filter: 0.5
   overlay_image: /assets/images/home-page.jpg
   actions:
     - label: "Дознајте повеќе"
       url: "/about/"
 excerpt: >
-  Здружение на учениците во средните училишта во Македонија<br />
+  Здружение на ученици во средните училишта во Македонија<br />
 ---
 
 <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>

@@ -15,6 +15,10 @@ tags:
 
 This post should display a **header with an overlay image** and **custom tagline**, if the theme supports it.
 
+{% capture fig_img %}
+![Foo]({{ "https://i.imgur.com/Lt4ZTpF.png" | relative_url }})
+{% endcapture %}
+
 Non-square images can provide some unique styling issues.
 
 This post tests overlay header images with custom `page.tagline`.

@@ -1,6 +1,6 @@
 ---
 title: "Ова е наслов"
-tagline: "Ова е поднаслов."
+tagline: ""
 header:
   overlay_image: https://i.imgur.com/Lt4ZTpF.png
   overlay_filter: 0.5

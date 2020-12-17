@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: 0.3
+  overlay_filter: 0.5
   overlay_image: /assets/images/home-page.jpg
   actions:
     - label: "Дознајте повеќе"

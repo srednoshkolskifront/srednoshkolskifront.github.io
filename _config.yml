@@ -30,9 +30,9 @@ masthead_title           : "  " # overrides the website title displayed in the m
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : disqus # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : srednoshkolskifront # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -70,12 +70,12 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : frontsredno
 facebook:
-  username               :
+  username               : srednoshkolskifront
   app_id                 :
   publisher              :
-og_image                 : /assets/images/site-logo.png # Open Graph/Twitter default site image
+og_image                 : https://i.imgur.com/Lt4ZTpF.png # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

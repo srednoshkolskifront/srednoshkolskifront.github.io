@@ -8,6 +8,8 @@ main:
     url: /blog/
   - title: "Архива"
     url: /year-archive/
+  - title: "Стани член!"
+    url: https://forms.gle/tGogtMUVpsLGZAXc6
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

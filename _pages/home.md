@@ -3,8 +3,10 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_filter: 0.3
-  overlay_image: /assets/images/home-page.jpg
+  overlay_image: https://i.imgur.com/Lt4ZTpF.png
+  overlay_filter: 0.5
+  teaser: /assets/images/500x300.png
+  og_image: /assets/images/500x300.png
   actions:
     - label: "Дознајте повеќе"
       url: "/about/"

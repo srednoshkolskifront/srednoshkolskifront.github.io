@@ -11,7 +11,6 @@ categories:
   - Објава
 tags:
   - протест
-last_modified_at: 2020-01-07T13:05:25-05:00
 ---
 
 This post should display a **header with an overlay image** and **custom tagline**, if the theme supports it.

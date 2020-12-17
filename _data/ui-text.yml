@@ -65,7 +65,7 @@ mk: &DEFAULT_MK
   skip_links                 : 
   skip_primary_nav           : 
   skip_content               : 
-  skip_footer                : 
+  skip_footer                :  
   page                       : "Страница"
   pagination_previous        : "Претходно"
   pagination_next            : "Следно"
@@ -77,7 +77,7 @@ mk: &DEFAULT_MK
   ext_link_label             : "Директен линк"
   less_than                  : "помалку од"
   minute_read                : "мин."
-  share_on_label             : "Сподели"
+  share_on_label             : "Сподели на"
   meta_label                 :
   tags_label                 : "Тагови:"
   categories_label           : "Категории:"
@@ -108,7 +108,7 @@ mk: &DEFAULT_MK
   search_placeholder_text    : "Внесете го клучниот збор за пребарување..."
   search_algolia_no_results  : "Не е пронајден ниту еден напис"
   results_found              : "Запис(и)"
-  back_to_top                : 
+  back_to_top                : "Врати се на почеток"
 mk-MK:
   <<: *DEFAULT_MK
 

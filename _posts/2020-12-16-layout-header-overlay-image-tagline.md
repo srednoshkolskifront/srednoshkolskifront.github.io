@@ -19,6 +19,11 @@ This post should display a **header with an overlay image** and **custom tagline
 ![Foo]({{ "https://i.imgur.com/Lt4ZTpF.png" | relative_url }})
 {% endcapture %}
 
+<figure>
+  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
+  <figcaption></figcaption>
+</figure>
+
 Non-square images can provide some unique styling issues.
 
 This post tests overlay header images with custom `page.tagline`.
